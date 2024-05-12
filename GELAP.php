@@ -1,6 +1,6 @@
 <?php
 session_start();
-error_reporting(0);
+//error_reporting(0);
 // IF SHELL DOESN'T WORK, REMOVE THE CODE BELOW
 
 //set_time_limit(0);
