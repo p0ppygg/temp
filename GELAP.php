@@ -4,7 +4,7 @@ error_reporting(0);
 // IF SHELL DOESN'T WORK, REMOVE THE CODE BELOW
 
 set_time_limit(0);
-//@set_magic_quotes_runtime(0);
+@set_magic_quotes_runtime(0);
 @clearstatcache();
 @ini_set('error_log',NULL);
 @ini_set('log_errors',0);
