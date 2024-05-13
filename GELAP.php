@@ -8,7 +8,7 @@ error_reporting(0);
 @clearstatcache();
 @ini_set('error_log',NULL);
 @ini_set('log_errors',0);
-@ini_set('max_execution_time',0);
+//@ini_set('max_execution_time',0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
