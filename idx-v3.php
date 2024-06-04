@@ -106,11 +106,12 @@ if(isset($_GET['file']) && ($_GET['file'] != '') && ($_GET['act'] == 'download')
     exit;
 }
 
-if(get_magic_quotes_gpc()) {
-	function idx_ss($array) {
-		return is_array($array) ? array_map('idx_ss', $array) : stripslashes($array);
-	}
-	$_POST = idx_ss($_POST);
+if (function_exists('get_magic_quotes_gpc') && get_magic_quotes_gpc()) {
+    function idx_ss($array) {
+        return is_array($array) ? array_map('idx_ss', $array) : stripslashes($array);
+    }
+    $_POST = idx_ss($_POST);
+    $_COOKIE = idx_ss($_COOKIE);
 }
 ?>
 <!DOCTYPE HTML>
